@@ -1,3 +1,7 @@
+# N is the number of rows and M is the number of columns
+# T.C. O(N X M)
+# S.C. O(N X M)
+
 # class Solution:
 #     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
 #         if mat is None:
